@@ -19,7 +19,6 @@
     "background_color": "#fff",
     "display": "standalone",
     "scope": "/",
-    "theme_color": "#183732",
-    "description": "Weather forecast information"
+    "theme_color": "#183732"
     
   }
