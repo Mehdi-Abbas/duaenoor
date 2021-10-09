@@ -1,1 +1,1 @@
-document.getElementById("menu").style.height=screen.height+"px";
+document.getElementById("menu").style.height=window.innerHeight+"px";
