@@ -17,7 +17,7 @@
     ],
     "start_url": "/duaenoor/",
     "background_color": "#fff",
-    "display": "fullscreen",
+    "display": "standalone",
     "scope": "/duaenoor/",
     "description": "An app in which you can read and listen Dua e Noor.",
     "theme_color": "#183732"
