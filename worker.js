@@ -1,5 +1,6 @@
 var CACHE_NAME = 'pwa-task-manager';
 var urlsToCache = [
+  '/duaenoor/',
   '/duaenoor/index.html',
   '/duaenoor/read.html',
   '/duaenoor/readlisten.html',
