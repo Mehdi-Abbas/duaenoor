@@ -6,7 +6,7 @@ document.getElementById("menu").style.height = window.innerHeight + "px";
 
 if ('serviceWorker' in navigator) {
     window.addEventListener('load', function () {
-        navigator.serviceWorker.register('/worker.js').then(function (registration) {
+        navigator.serviceWorker.register('/duaenoor/worker.js').then(function (registration) {
             console.log('Worker registration successful', registration.scope);
         }, function (err) {
             console.log('Worker registration failed', err);
@@ -20,7 +20,7 @@ if ('serviceWorker' in navigator) {
 
 if ('serviceWorker' in navigator) {
     window.addEventListener('load', function () {
-        navigator.serviceWorker.register('/worker.js').then(function (registration) {
+        navigator.serviceWorker.register('/duaenoor/worker.js').then(function (registration) {
             console.log('Worker registration successful', registration.scope);
         }, function (err) {
             console.log('Worker registration failed', err);
