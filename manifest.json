@@ -20,6 +20,7 @@
     "display": "standalone",
     "scope": "/duaenoor/",
     "description": "An app in which you can read and listen Dua e Noor.",
-    "theme_color": "#183732"
+    "theme_color": "#183732",
+    "orientation": "vertical"
     
   }
