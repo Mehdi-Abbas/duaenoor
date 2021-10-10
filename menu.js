@@ -1,4 +1,4 @@
-// import * as serviceWorker from './worker.js';
+import * as serviceWorker from './worker.js';
 
 document.getElementById("menu").style.height = window.innerHeight + "px";
 
